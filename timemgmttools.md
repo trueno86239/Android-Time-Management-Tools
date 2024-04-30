@@ -15,27 +15,27 @@
 
 # Shrnutí:
 
-# 1. Výhody vybraných nástrojů:
+## 1. Výhody vybraných nástrojů:
 
-## Google Kalendář 
+### Google Kalendář 
 - Zdarma a dostupný na všech platformách
-## TickTick 
+### TickTick 
 - Integrace s ostatními time managment nástroji
-## aTimeLogger
+### aTimeLogger
 - Fakturace a řízení týmu: aTimeLogger umožňuje vytvářet faktury na základě sledovaného času a řídit výkonnost vašeho týmu.
 
-# 2. Nevýhody vybraných nástrojů:
+## 2. Nevýhody vybraných nástrojů:
 
-## Google Kalendář 
+### Google Kalendář 
 - Omezené možnosti offline
-## TickTick 
+### TickTick 
 - Zdarma s omezenými funkcemi
-## aTimeLogger
+### aTimeLogger
 - aTimeLogger je dražší než TickTick a Google Kalendář.
 
 
-# 3. Alternativní řešení:  
-## Microsoft Outlook
+## 3. Alternativní řešení:  
+### Microsoft Outlook
 - Komplexní nástroj pro správu času a e-mailů s funkcemi pro kalendář, úkoly, kontakty a poznámky.
-## Asana
+### Asana
 - Nástroj pro správu úkolů a projektů s funkcemi pro sdílení úkol
