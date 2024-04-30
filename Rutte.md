@@ -11,3 +11,8 @@ def greet(name):
 2. Druhá věc
 3. Třetí věc
 
+| Jméno | Příjmení | Věk |
+|---|---|---|
+| Tona | Tondovič | 30 |
+| Zdena | Pěna | 25 |
+| Petr | Nesvoboda | 40 |
