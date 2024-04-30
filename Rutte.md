@@ -13,6 +13,6 @@ def greet(name):
 
 | Jméno | Příjmení | Věk |
 |---|---|---|
-| Tona | Tondovič | 30 |
+| Tonda | Tondovič | 30 |
 | Zdena | Pěna | 25 |
 | Petr | Nesvoboda | 40 |
