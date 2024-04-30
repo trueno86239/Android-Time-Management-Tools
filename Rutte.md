@@ -1,7 +1,5 @@
 # Můj skvělý markdown soubor
 
-## Kódový blok
-
 ```
 def greet(name):
     print("Hello, " + name + "!")
